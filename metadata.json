@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "Modern photo gallery app with immersive photo viewer, albums, zoom & pan, EXIF info, and filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
